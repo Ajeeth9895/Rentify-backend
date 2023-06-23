@@ -28,7 +28,7 @@ mongoose.connect(dbUrl);
 
 
 //frontend url
-let frontUrl = "http://localhost:3000";
+let frontUrl = "https://peaceful-bienenstitch-8e8cad.netlify.app";
 
 
 
